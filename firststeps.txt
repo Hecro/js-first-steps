@@ -1,0 +1,27 @@
+// Os dados mais utilizados são os seguintes:
+
+// String = Sequência de caracteres, texto
+
+"Estou dando meus primeiros passos em JS c:"   // Pode ser feito com aspas duplas
+'Estou dando meus primeiros passos em JS c:'  //  Com aspas simples
+`Estou dando meus primeiros passos em JS c:` //   Ou até mesmo com acento grave, e dessa forma tambám pode ser atribuidas variaveis dentro do acento utilizando ${variable}, por exemplo
+
+// Number = Os dados de tipo number são nada mais nada menos que sequências numéricas
+
+1
+0.1
+-1
+
+// Boolean = Dados do tipo boolean recebem os valores de TRUE ou FALSE (VERDADEIRO ou FALSO)
+
+true
+false
+
+// Null = Os dados do tipo NUll recebem valores NULOS, ou VAZIOS
+
+null
+
+/* Undefined = Os dados do tipo UNDEFINED como o nome já diz
+são valores do tipo Indefinido, que não foram atribuidos valores */
+
+undefined
